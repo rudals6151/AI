@@ -35,3 +35,7 @@ def load_config():
 def set_openai_api_key():
     config = load_config()
     os.environ["OPENAI_API_KEY"] = config["openai"]["key"]
+
+def get_clova_keys():
+    config = get_config()
+    return config["clova"]["api_id"], config["clova"]["api_secret"]

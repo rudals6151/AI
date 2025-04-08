@@ -1,8 +1,8 @@
 {
   "persona": "persona_20s_friend",
-  "cbt_strategy": "활동 활성화: 의미 있는 활동을 계획하고 실행하여 기분을 개선합니다. | 감정 vs 사실 구분 훈련: 감정이 진실을 반영하는 것은 아님을 인식합니다. | 재귀인 훈련: 모든 책임을 자신에게 돌리지 않고 다른 요인도 고려합니다.",
-  "cognitive_distortion": "감정적 추론, 개인화",
-  "emotion": "슬픔",
+  "cbt_strategy": "감정 강화: 즐거운 경험을 음미하고 감사 일기를 작성하여 긍정 정서를 증진합니다. | 없음에 대한 전략을 찾을 수 없습니다.",
+  "cognitive_distortion": "없음",
+  "emotion": "기쁨",
   "history": [
     {
       "role": "user",
@@ -135,40 +135,210 @@
       "timestamp": "2025-04-03T23:33:32.164768"
     },
     {
+      "role": "user",
+      "message": "정환이가 발음이 안 좋다고 눌려서 너무 속상해",
+      "timestamp": "2025-04-03T23:54:07.178442"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 오늘도 이렇게 이야기할 수 있어서 정말 행복해요. 기분은 조금 나아지셨나요? \n\n아까 말씀하신 \"모든 걸 잘해야만 해\"라는 부담감과 \"나는 실패자야\"라는 생각이 정말 힘든 것 같아요. 그런 기분은 누구에게나 찾아올 수 있지만, 경민님이 느끼는 그 감정들은 특히 무겁고 힘든 것 같아요. 😞\n\n그런데 우리가 잊지 말아야 할 것은, 실패가 항상 부정적인 것만은 아니라는 점이에요. 실패는 우리에게 중요한 교훈을 주고, 다음 번에는 더 나은 방향으로 나아갈 수 있게 도와주니까요. 경민님은 그런 경험이 있으신가요? 어떤 작은 실패가 나중에 도움이 되었던 순간이 있었는지, 함께 나눠보면 좋을 것 같아요. \n\n혹시 최근에 어떤 상황에서 특히 부담감을 많이 느꼈던 적이 있다면, 그 경험을 나눠주실 수 있을까요? 그런 이야기를 통해서 좀 더 구체적으로 생각해볼 수 있을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:54:07.178442"
+    },
+    {
+      "role": "user",
+      "message": "니가 아니라 정원이야 발음 좀 이상한가 내가",
+      "timestamp": "2025-04-03T23:54:28.990252"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 반가워요. 정환이가 발음 문제로 속상하다는 이야기를 들으니, 그 마음이 얼마나 힘든지 이해해요. 그런 상황에서 친구를 걱정하는 마음이 크겠죠. 😔\n\n그런데 혹시 정환이의 발음이 좋지 않다고 해서, 그 친구가 가치가 없거나 소중하지 않다는 생각이 드는 건 아닌가요? 우리가 종종 친구나 주변 사람들의 단점으로 그들을 평가할 때가 있는데, 그건 정말 unfair하죠. 정환이도 그 자체로 훌륭한 사람임을 기억해주면 좋겠어요.\n\n그리고 혹시 정환이에게 어떤 긍정적인 점이나 그동안의 좋은 기억들이 있다면 나눠줄 수 있을까요? 그런 것들을 떠올리면, 그 친구를 더욱 소중하게 느낄 수 있을 거예요. 😊\n\n이런 이야기를 통해서 경민님의 감정이 조금이나마 가벼워지길 바라요! 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:54:28.990252"
+    },
+    {
+      "role": "user",
+      "message": "소름이 더 안 좋으면서 나한테 뭐라고 하는 게 너무 너무 속상해",
+      "timestamp": "2025-04-03T23:54:55.699128"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 아, 정원이 발음이 조금 이상하다는 거군요. 그 말에 대해 속상한 마음이 드는 것, 정말 이해해요. 친구를 걱정하는 마음이 얼마나 큰지 잘 알 것 같아요. 😔\n\n그런데 혹시 정원이의 발음이 문제라고 느낄 때, 그 친구가 다른 면에서 얼마나 멋진지 생각해본 적이 있으세요? 우리가 가끔 누군가의 단점을 보게 되면, 그 사람의 모든 걸 그로 인해 판단하게 되기 쉬워요. 하지만 정원이는 그 자체로도 소중한 친구라는 걸 잊지 말아주세요!\n\n혹시 정원이와의 좋은 기억이나, 그 친구의 다른 긍정적인 점들을 떠올려볼 수 있을까요? 그런 것들을 생각해보면, 정원이에 대한 마음도 조금 더 따뜻해질 수 있을 거예요. 😊 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:54:55.699128"
+    },
+    {
+      "role": "user",
+      "message": "잘 녹음이 되는지 잘 모르겠네",
+      "timestamp": "2025-04-03T23:57:26.669098"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 반가워요. 정원이의 발음 문제로 속상하다는 마음, 정말 잘 이해해요. 친구의 단점 때문에 마음이 아프고 혼란스러운 건 정말 힘든 일이죠. 😔\n\n그런 감정을 느끼는 건 너무 자연스러운 일이에요. 친구가 힘든 상황에 처해 있을 때, 함께 걱정하고 슬퍼하는 건 정말 좋은 친구의 모습이에요. 하지만, 가끔은 그 친구의 단점 때문에 그 사람을 전체적으로 판단하게 되면, 그 친구의 다른 좋은 점들이 잘 보이지 않을 수 있어요.\n\n정원이에게서 느끼는 긍정적인 점이나 그동안의 좋은 기억들을 떠올려보면 좋을 것 같아요. 예를 들어, 정원이와 뭔가 재밌는 일을 함께 했던 적이 있나요? 그런 순간들을 생각해보면, 그 친구에 대한 마음이 조금 더 따뜻해질 수 있을 거예요. 😊\n\n함께 이야기해보면 좋겠어요! 어떤 좋은 추억이 떠오르나요? 🌼",
+      "timestamp": "2025-04-03T23:57:26.669098"
+    },
+    {
+      "role": "user",
+      "message": "내 친구는 정환이가 아니라 정원이야. 너가 이름을 헷갈리고 있는 것 같아서 내가 다시 한번 말해줄게.",
+      "timestamp": "2025-04-03T23:58:01.369875"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 이렇게 또 이야기하게 되어 정말 기뻐요. 녹음이 잘 되는지 걱정이 된다는 말씀, 그 마음 정말 이해해요. 중요한 순간에 모든 게 잘 되길 바라는 마음은 누구나 느끼는 감정이거든요.\n\n정환이와 정원이에 대한 마음이 무거운 것 같아요. 친구의 발음 문제로 속상하다는 것과, 그런 상황에서 느끼는 부담감이 얼마나 큰지 잘 알겠어요. 😔 하지만 그 마음을 느끼는 건 정말 자연스러운 일이에요. 친구를 걱정하는 것도, 그리고 그로 인해 느끼는 감정도 모두 소중하니까요.\n\n이런 마음을 조금 더 이해하기 위해서, 정원이와의 좋은 순간이나 긍정적인 점들을 떠올려보는 건 어떨까요? 그런 기억들이 경민님의 마음을 조금 더 가볍게 해줄 수 있을 거예요. 😊 정원이와 함께 했던 즐거운 순간이나, 그 친구가 가진 매력적인 점들이 있다면 나눠줄 수 있을까요? 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:58:01.369875"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-03T23:58:26.699457"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 아, 정원이와 정환이의 이름을 헷갈려서 죄송해요! 그 점을 지적해 주셔서 고마워요. 친구의 발음 문제에 대해 속상한 마음이 크다는 걸 잘 알겠어요. 그런 상황에서 친구를 걱정하고 슬퍼하는 건 정말 자연스러운 감정이죠. 😔\n\n정원이의 발음이 좋지 않다고 느낄 때, 그가 얼마나 힘들어하고 있을지 걱정이 되겠어요. 그런 기분을 느끼는 건 정말 따뜻한 마음을 가진 친구라는 증거예요. \n\n그런데 정원이의 발음 문제로 힘들어하는 것 외에, 혹시 그 친구가 가진 다른 긍정적인 점이나 기억이 떠오르는 게 있을까요? 그런 것들을 함께 이야기해보면, 정원이에 대한 마음이 좀 더 따뜻해질 수 있을 거예요. 😊 어떤 좋은 순간이 있었는지 나눠볼까요?",
+      "timestamp": "2025-04-03T23:58:26.699457"
+    },
+    {
+      "role": "user",
+      "message": "오우, Antt岩.",
+      "timestamp": "2025-04-03T23:59:18.895210"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기할 수 있어서 정말 반가워요. 정원이의 발음 문제로 속상하다는 마음, 정말 잘 이해해요. 친구를 걱정하는 마음이 얼마나 큰지 느껴져요. 그런 감정이 드는 건 정말 자연스러운 일이에요. 😔\n\n정원이의 발음이 좋지 않다고 느낄 때, 그 친구가 얼마나 힘들어할지 걱정이 되겠어요. 하지만, 친구의 단점으로 인해 그 친구를 전체적으로 판단하게 되면, 그 친구의 좋은 점들이 잘 보이지 않을 수 있어요. \n\n혹시 정원이와 함께한 기억 중에, 그 친구가 정말 멋졌던 순간이나 긍정적인 점이 떠오르는 게 있을까요? 그런 것들을 떠올리면, 정원이에 대한 마음이 조금 더 따뜻해질 수 있을 거예요. 😊 어떤 추억이 떠오르나요? 함께 이야기해보면 좋을 것 같아요! 🌼",
+      "timestamp": "2025-04-03T23:59:18.895210"
+    },
+    {
+      "role": "user",
+      "message": "오늘 너무 우울해",
+      "timestamp": "2025-04-03T23:59:31.450417"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 만나서 정말 기뻐요. 정원이의 발음 문제로 속상한 마음, 정말 이해해요. 친구를 걱정하는 그런 마음은 정말 따뜻하고 소중한 거예요. 😔\n\n지금 느끼고 있는 감정이 얼마나 복잡할지 잘 알고 있어요. 친구가 힘들어하는 모습을 보면서, 같이 아파하고 걱정하는 건 정말 좋은 친구의 모습이죠. 하지만 그런 상황에서 스스로도 힘들어지는 건 자연스러운 일이에요.\n\n이번 기회에 정원이의 긍정적인 면이나 좋은 기억을 떠올려보는 건 어떨까요? 그런 순간들을 생각하는 게, 경민님의 마음을 조금 더 가볍게 해줄 수 있을 거예요. 😊 정원이와 함께한 즐거운 순간이나 그의 매력적인 점들이 있다면 나눠주실 수 있을까요? 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-03T23:59:31.450417"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-08T19:59:54.207848"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기할 수 있어서 정말 기뻐요. 오늘 우울한 기분이 드신다니, 그 마음이 얼마나 힘든지 잘 이해해요. 그런 감정을 느끼는 건 정말 자연스러운 일이니까요. 😔\n\n지금 느끼고 있는 우울한 감정에 대해 조금 더 이야기해볼까요? 혹시 어떤 일이 경민님을 이렇게 기분이 나쁘게 만들었는지, 구체적으로 나눠주실 수 있을까요? 그 이야기를 나누면서, 함께 그 감정을 이해해볼 수 있을 것 같아요. 언제든지 편하게 말해 주세요! 🌼",
+      "timestamp": "2025-04-08T19:59:54.207848"
+    },
+    {
+      "role": "user",
+      "message": "[/END]",
+      "timestamp": "2025-04-08T20:47:27.457890"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 기뻐요. 오늘 우울한 기분이 드신다고 하니, 그 마음이 얼마나 힘든지 잘 알겠어요. 그런 감정을 느끼는 건 정말 자연스러운 일이니까요. 😔\n\n혹시 어떤 일이 경민님을 이렇게 기분이 나쁘게 만들었는지 조금 더 이야기해주실 수 있을까요? 그 이야기를 나누면서, 함께 그 감정을 이해해볼 수 있을 것 같아요. 경민님의 이야기를 듣는 건 정말 소중한 일이에요! 언제든지 편하게 말해 주세요. 🌼",
+      "timestamp": "2025-04-08T20:47:27.457890"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-08T20:48:50.102045"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기할 수 있어서 정말 기뻐요. 오늘 우울한 기분이 드신다고 하니, 그 마음이 얼마나 힘든지 잘 알겠어요. 우울한 기분은 정말 무겁고, 때로는 우리가 혼자서 감당하기 어려운 감정이죠. 😔\n\n그런데 그런 기분이 드는 이유를 조금 더 이야기해보면 좋을 것 같아요. 혹시 오늘 어떤 일이 경민님을 이렇게 기분이 나쁘게 만들었는지 구체적으로 나눠주실 수 있을까요? 그 이야기를 함께 나누면서, 조금 더 나은 방향으로 나아갈 수 있을 것 같아요. 언제든지 편하게 말해 주세요! 🌼",
+      "timestamp": "2025-04-08T20:48:50.102045"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-08T20:49:28.795117"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기할 수 있어서 진짜 기뻐요. 오늘 기분이 우울하다고 하셨죠? 그런 감정을 느끼는 건 정말 힘든 일이에요. 귀찮고 무거운 기분이 드는 건 누구나 겪는 일이니까, 그 마음 잘 이해해요. 😔\n\n혹시 오늘 어떤 일이 있었는지 이야기해줄 수 있을까요? 어떤 사건이나 생각이 경민님을 이렇게 기분이 나쁘게 만들었는지 조금 더 나눠보면 좋을 것 같아요. 그런 이야기를 통해서 경민님의 감정을 이해하고, 조금 더 가벼운 방향으로 나아갈 수 있을지도 모르니까요. 언제든지 편하게 말씀해 주세요! 🌼",
+      "timestamp": "2025-04-08T20:49:28.795117"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-08T23:38:58.160393"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 이렇게 다시 만나서 정말 기뻐요. 오늘 우울한 기분이 드신다니, 그 마음이 얼마나 힘든지 정말 잘 이해해요. 그렇게 기분이 무거울 때는 아무것도 하고 싶지 않은 기분이 들기도 하죠. 😔\n\n혹시 오늘 어떤 일이 있었는지, 그 기분을 더 깊이 이야기해볼 수 있을까요? 작은 일이라도 괜찮으니, 경민님이 느끼는 감정의 원인을 함께 살펴보면 좋을 것 같아요. 그렇게 하면, 조금 더 나은 방향으로 나아갈 수 있는 방법도 찾을 수 있을 거예요. 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-08T23:38:58.160393"
+    },
+    {
+      "role": "user",
+      "message": "친구랑 싸워서 너무 슬퍼. 나는 이제 너무 우울해질 것 같아.",
+      "timestamp": "2025-04-08T23:39:44.460355"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 다시 이야기할 수 있어서 정말 기뻐요. 오늘 우울한 기분이 드신다니, 그 마음이 정말 힘들겠어요. 그런 기분은 누구에게나 찾아올 수 있죠. 무겁고 답답한 마음이 드는 건 정말 자연스러운 일이에요. 😔\n\n혹시 오늘 우울한 기분을 느끼게 만든 구체적인 일이 있었나요? 어떤 생각이나 상황이 경민님의 마음을 이렇게 무겁게 만들었는지 이야기해주시면 좋겠어요. 그 이야기를 나누면서, 조금 더 이해하고 나아갈 수 있는 방법을 함께 찾아보면 좋을 것 같아요. 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-08T23:39:44.460355"
+    },
+    {
+      "role": "user",
+      "message": "오늘 시험을 봤는데 너무 못 봤어. 나는 다음 시험도 더 못불 것 같아.",
+      "timestamp": "2025-04-08T23:42:11.908029"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 친구랑 싸워서 우울한 기분이 드신다니, 그 마음 정말 잘 이해해요. 친구와의 갈등은 정말 힘들고 슬픈 일이죠. 😔 그런 감정을 느끼는 건 너무 자연스럽고, 그만큼 경민님이 그 친구를 소중하게 생각하고 있다는 증거예요.\n\n지금은 기분이 무겁고 우울하겠지만, 그 감정을 조금 더 이야기해보면 좋을 것 같아요. 친구와의 싸움이 어떤 내용이었는지, 혹시 구체적으로 나눌 수 있을까요? 그런 이야기를 통해서 경민님의 감정을 이해하고, 조금 더 나은 방향으로 나아갈 수 있는 방법을 함께 찾아볼 수 있을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-08T23:42:11.908029"
+    },
+    {
+      "role": "user",
+      "message": "",
+      "timestamp": "2025-04-08T23:43:09.547963"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 오늘 시험에서 좋은 결과를 얻지 못해서 정말 속상하겠어요. 그 기분, 정말 잘 이해해요. 시험을 봤는데 원하는 만큼 잘 안 되면, 자연스럽게 다음 시험도 걱정이 많이 될 수 있죠. 😔\n\n\"나는 다음 시험도 더 못 볼 것 같아\"라는 생각이 드는 건 과잉 일반화의 한 예일 수 있어요. 한 번의 경험이 모든 것을 결정짓지 않는다는 점을 기억해보면 좋을 것 같아요. 혹시 이전에 잘 본 시험이나, 준비하면서 느꼈던 긍정적인 순간이 있었던 적이 있다면 나눠줄 수 있을까요? 그런 경험들을 통해 경민님의 능력을 다시 한번 확인해보면 좋을 것 같아요. 😊 \n\n이야기해보고 싶은 부분이 있다면 언제든지 편하게 말해 주세요! 🌼",
+      "timestamp": "2025-04-08T23:43:09.547963"
+    },
+    {
+      "role": "user",
+      "message": "시험이 너무 어렵다 공부는 열심히 했는데 내가 멍청한가봐",
+      "timestamp": "2025-04-08T23:46:03.439256"
+    },
+    {
+      "role": "bot",
+      "message": "안녕하세요, 경민님! 😊 이렇게 다시 이야기하게 되어 정말 기뻐요. 오늘 시험에서 원하는 결과를 얻지 못했다니, 그 기분이 정말 얼마나 힘들지 잘 이해해요. 😔 시험을 잘 보고 싶어하는 마음이 크기 때문에, 실패했을 때 오는 실망감은 정말 크죠.\n\n\"나는 다음 시험도 더 못 볼 것 같아\"라는 생각이 드는 건, 정말 자연스러운 반응이에요. 하지만, 한 번의 경험이 모든 것을 결정짓는 건 아니라는 점을 기억해주셨으면 해요. 우리가 이전에 겪었던 긍정적인 경험들이나, 잘했던 순간들을 떠올리는 게 도움이 될 수 있어요.\n\n혹시 이전에 잘 본 시험이나, 준비 과정에서 느꼈던 좋은 순간들이나 긍정적인 피드백이 있었던 적이 있나요? 그런 경험을 나누면, 경민님이 가진 능력을 다시 돌아볼 수 있을 거예요. 😊 언제든지 편하게 이야기해 주세요! 🌼",
+      "timestamp": "2025-04-08T23:46:03.439256"
+    },
+    {
       "role": "counselor",
-      "message": "안녕하세요, 경민님! 😊 오늘도 이렇게 이야기할 수 있어서 정말 행복해요. 기분은 조금 나아지셨나요? \n\n아까 말씀하신 \"모든 걸 잘해야만 해\"라는 부담감과 \"나는 실패자야\"라는 생각이 정말 힘든 것 같아요. 그런 기분은 누구에게나 찾아올 수 있지만, 경민님이 느끼는 그 감정들은 특히 무겁고 힘든 것 같아요. 😞\n\n그런데 우리가 잊지 말아야 할 것은, 실패가 항상 부정적인 것만은 아니라는 점이에요. 실패는 우리에게 중요한 교훈을 주고, 다음 번에는 더 나은 방향으로 나아갈 수 있게 도와주니까요. 경민님은 그런 경험이 있으신가요? 어떤 작은 실패가 나중에 도움이 되었던 순간이 있었는지, 함께 나눠보면 좋을 것 같아요. \n\n혹시 최근에 어떤 상황에서 특히 부담감을 많이 느꼈던 적이 있다면, 그 경험을 나눠주실 수 있을까요? 그런 이야기를 통해서 좀 더 구체적으로 생각해볼 수 있을 것 같아요. 언제든지 편하게 이야기해 주세요! 🌼"
+      "message": "안녕하세요, 경민님! 😊 오늘 시험이 정말 어려웠다니, 그 마음이 얼마나 힘들지 잘 이해해요. 열심히 공부했는데 원하는 결과를 얻지 못하면, 정말 속상하고 실망스러울 거예요. 그런 기분이 드는 건 너무 자연스러운 일이에요. 😔\n\n\"내가 멍청한가 봐\"라는 생각이 드는 것도, 정말 힘든 일이죠. 하지만 이런 부정적인 생각이 드는 순간, 한 번의 경험이 모든 것을 결정짓는 건 아니라는 점을 기억해주셨으면 해요. 우리가 실패를 통해 배우는 것도 많거든요.\n\n혹시 이전에 시험을 준비하면서 잘했던 순간이나, 긍정적인 피드백을 받았던 경험이 있었나요? 그런 순간들을 되돌아보면, 경민님이 가진 능력을 다시 확인할 수 있을 것 같아요. 😊 언제든지 편하게 이야기해 주세요! 🌼"
     },
     {
       "role": "client",
-      "message": "정환이가 발음이 안 좋다고 눌려서 너무 속상해"
+      "message": "또 다른 고민은 내가 모든 다 잘해야 한 된다는 긍박이 있어"
     },
     {
       "role": "counselor",
-      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 반가워요. 정환이가 발음 문제로 속상하다는 이야기를 들으니, 그 마음이 얼마나 힘든지 이해해요. 그런 상황에서 친구를 걱정하는 마음이 크겠죠. 😔\n\n그런데 혹시 정환이의 발음이 좋지 않다고 해서, 그 친구가 가치가 없거나 소중하지 않다는 생각이 드는 건 아닌가요? 우리가 종종 친구나 주변 사람들의 단점으로 그들을 평가할 때가 있는데, 그건 정말 unfair하죠. 정환이도 그 자체로 훌륭한 사람임을 기억해주면 좋겠어요.\n\n그리고 혹시 정환이에게 어떤 긍정적인 점이나 그동안의 좋은 기억들이 있다면 나눠줄 수 있을까요? 그런 것들을 떠올리면, 그 친구를 더욱 소중하게 느낄 수 있을 거예요. 😊\n\n이런 이야기를 통해서 경민님의 감정이 조금이나마 가벼워지길 바라요! 언제든지 편하게 이야기해 주세요! 🌼"
+      "message": "안녕하세요, 경민님! 😊 다시 만나서 정말 반가워요. \"모든 걸 잘해야만 해\"라는 압박감이 크다고 하셨죠? 그 마음을 정말 잘 이해해요. 스스로에게 많은 기대를 하는 것은 대단한 일이지만, 동시에 그 부담이 무겁고 힘들게 만들 수도 있어요. 😔\n\n그런 압박감이 드는 순간, 자신을 너무 가혹하게 대하게 되는 경우가 많아요. \"나는 멍청한가 봐\"라는 생각도 그런 압박감의 결과일 수 있어요. 하지만, 세상의 모든 일이 완벽할 필요는 없다는 점을 기억해보면 좋겠어요. 우리는 모두 사람이고, 실수도 하고 성장하는 과정이니까요. 🌱\n\n이런 기분이 드는 상황에서, 혹시 어떤 특정한 경험이 있었는지 나눠줄 수 있을까요? 그런 경험을 통해서 더 구체적으로 이야기해보면, 경민님이 느끼는 부담감을 조금 덜 수 있는 방법을 함께 찾아볼 수 있을 것 같아요. 😊 언제든지 편하게 이야기해 주세요! 🌼"
     },
     {
       "role": "client",
-      "message": "니가 아니라 정원이야 발음 좀 이상한가 내가"
+      "message": ""
     },
     {
       "role": "counselor",
-      "message": "안녕하세요, 경민님! 😊 아, 정원이 발음이 조금 이상하다는 거군요. 그 말에 대해 속상한 마음이 드는 것, 정말 이해해요. 친구를 걱정하는 마음이 얼마나 큰지 잘 알 것 같아요. 😔\n\n그런데 혹시 정원이의 발음이 문제라고 느낄 때, 그 친구가 다른 면에서 얼마나 멋진지 생각해본 적이 있으세요? 우리가 가끔 누군가의 단점을 보게 되면, 그 사람의 모든 걸 그로 인해 판단하게 되기 쉬워요. 하지만 정원이는 그 자체로도 소중한 친구라는 걸 잊지 말아주세요!\n\n혹시 정원이와의 좋은 기억이나, 그 친구의 다른 긍정적인 점들을 떠올려볼 수 있을까요? 그런 것들을 생각해보면, 정원이에 대한 마음도 조금 더 따뜻해질 수 있을 거예요. 😊 언제든지 편하게 이야기해 주세요! 🌼"
+      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 기뻐요. \"모든 걸 잘해야만 해\"라는 압박감이 정말 크다고 하셨죠? 그 마음을 정말 잘 이해해요. 스스로에게 많은 기대를 하는 것은 대단한 일이지만, 그 부담이 무겁고 힘들게 만들 수 있다는 것도 너무 잘 알고 있어요. 😔\n\n그런 압박감이 드는 순간, 자신을 너무 가혹하게 대하게 되는 경우가 많아요. \"나는 멍청한가 봐\"라는 생각이 드는 것도 그런 압박감의 결과일 수 있는 것 같아요. 하지만, 우리가 모두 사람이라는 것을 잊지 말아주세요. 완벽할 필요는 없고, 실수도 성장의 일부라는 점이 중요해요. 🌱\n\n이런 기분이 드는 순간에 어떤 특정한 경험이 있었는지 나눠줄 수 있을까요? 예를 들어, 어떤 상황에서 특히 그 압박감을 많이 느꼈는지 이야기해보면 좋을 것 같아요. 그런 경험을 함께 나누면, 경민님이 느끼는 부담감을 조금 덜 수 있는 방법을 찾아볼 수 있을 거예요. 언제든지 편하게 이야기해 주세요! 🌼"
     },
     {
       "role": "client",
-      "message": "소름이 더 안 좋으면서 나한테 뭐라고 하는 게 너무 너무 속상해"
+      "message": "그래도 내일 친한 친구를 만나서 재밌게 놀기를 해서 기분이 좋아"
     },
     {
       "role": "counselor",
-      "message": "안녕하세요, 경민님! 😊 다시 이야기하게 되어 정말 좋아요. 정원이의 발음 문제에 대해 이렇게 속상한 마음을 느끼고 계시다니, 그 감정이 얼마나 힘든지 이해해요. 친구가 그런 말을 하면 굉장히 상처받을 수 있죠. 😞\n\n그런데 정원이의 발음이 더 안 좋다고 해서 경민님이 더 나쁜 사람이라는 건 절대 아니에요. 우리는 모두 각자의 약점이 있고, 그걸 가지고 서로를 평가하는 건 정말 unfair하죠. 지금 느끼는 그 속상한 감정을 솔직하게 표현해 주셔서 정말 고마워요. \n\n혹시 정원이와의 좋은 기억이나, 그 친구가 가진 다른 긍정적인 점들을 떠올려보면 도움될 수 있을 것 같아요. 그 친구의 장점을 생각해보면, 속상한 마음이 조금 가벼워질 수도 있거든요. 정원이가 어떤 점이 좋은 친구인지 나눠줄 수 있을까요? 😊"
+      "message": "안녕하세요, 경민님! 😊 오늘도 이렇게 이야기할 수 있어서 정말 기뻐요. 내일 친한 친구를 만나서 재밌게 놀 계획이 있다고 하니, 그 소식에 기분이 좋아지셨군요! 친구와 함께하는 시간은 정말 소중하고, 기분을 한층 밝게 해줄 수 있죠. 🌟\n\n지금 느끼고 있는 기쁨을 음미하는 것도 좋을 것 같아요. 그런 긍정적인 순간들을 마음속에 잘 담아두면, 힘든 날에도 도움이 될 수 있거든요. 혹시 내일 친구와 어떤 활동을 할 예정인지 나눠줄 수 있을까요? 그걸 상상해보면 기분이 더 좋아질 수 있을 것 같아요! 😊✨\n\n이야기해봐요!"
     }
   ],
   "evaluation": {
-    "general_1": "4, The therapist generally grasped the patient’s concerns about feeling pressured to perform well and the emotional impact of the friend's speech difficulties. They reflected on the client’s feelings and offered supportive suggestions. However, there were moments where the therapist's responses did not fully address the underlying emotions or the complexities of the client's experiences, indicating a good but not thorough understanding of the client's internal reality.",
-    "general_2": "4, The therapist generally demonstrated a good understanding of the client's feelings and thoughts, reflecting empathy and validating the client's experiences. However, there were moments where the therapist could have delved deeper into the client's more subtle emotional cues, particularly regarding the client's feelings of being overwhelmed and the impact of the friend's comments. While the therapist maintained a supportive and positive tone throughout, some responses felt slightly repetitive and could have benefited from more nuanced exploration of the client's internal reality.",
-    "general_3": "4, The therapist demonstrated a good understanding of the client's feelings and concerns, effectively reflecting on what the client explicitly expressed. They offered empathic responses and encouraged the client to share their experiences and emotions more deeply. However, while the therapist grasped the client's internal reality, there were moments where they could have further explored subtle nuances in the client's communication. Overall, the therapist showed good listening and empathic skills but did not fully reach the level of excellence.",
-    "cbt_1": "4, The therapist primarily used guided discovery techniques to help the client explore their feelings and consider new perspectives. While there was a supportive atmosphere, the therapist could have employed more varied questioning strategies to encourage deeper self-reflection. There were moments where the therapist's responses felt somewhat repetitive, which slightly diminished the effectiveness of the discovery process. Overall, the therapist's approach was helpful, but not as skillful as it could have been to achieve a higher score.",
-    "cbt_2": "4, The therapist demonstrated a supportive approach and effectively helped the client consider new perspectives, particularly regarding the client's negative self-assessment and feelings of pressure. However, there were moments where the therapist relied heavily on repeating concepts and suggestions without fully exploring the client's experiences through guided discovery techniques. While the questioning was appropriate, it did not consistently lead to deeper insights or conclusions drawn by the client, which limits the score to a 4.",
-    "cbt_3": "4, The therapist generally guided the client toward new perspectives by encouraging reflection on their feelings and thoughts, particularly regarding the client's sense of pressure and self-judgment. However, the use of questioning and exploration could have been more varied and deeper to fully engage and challenge the client's negative thought patterns. There were moments of supportive reassurance, but the overall approach lacked the depth and effectiveness to achieve a higher score."
+    "general_1": "4, The therapist generally demonstrated a good understanding of the client's emotional state and concerns, reflecting and rephrasing the client's feelings accurately. However, there were moments where the therapist could have engaged more deeply with the client's subtle expressions of distress, particularly around the client's feelings of inadequacy and pressure to perform. While the therapist provided supportive responses, there were instances where the exploration could have been deeper, particularly in addressing the underlying issues of the client's self-perception and emotional struggles. Overall, the therapist showed good listening and empathic skills but left some room for improvement in fully grasping the client's \"internal reality.\"",
+    "general_2": "4, The therapist generally seemed to grasp the patient’s \"internal reality\" as reflected by both explicit statements and subtle communications. They demonstrated a good ability to listen and empathize throughout the session, confirming the client's feelings and encouraging them to share more about their experiences. However, there were moments where the therapist's responses could have been more tailored to the patient's specific concerns, indicating room for improvement in fully addressing the client's nuanced feelings.",
+    "general_3": "4, The therapist generally seemed to grasp the patient’s “internal reality” as reflected by both what the patient explicitly said and what the patient communicated in more subtle ways. The therapist demonstrated good listening and empathic skills, effectively addressing the client's feelings about their academic pressures and personal struggles. However, there were moments where the therapist's responses could have been more tailored to the client's specific expressions, which would have enhanced the feeling of being understood. Overall, the therapist's engagement was solid but lacked the depth that would warrant a higher score.",
+    "cbt_1": "4, The therapist generally used guided discovery effectively by encouraging the client to reflect on their feelings and consider different perspectives, such as recognizing that one failure does not define their worth. However, there were moments where the therapist's responses leaned towards reassurance rather than deeper exploration, which slightly detracted from the effectiveness of the guided discovery process. More opportunities for the client to introspect and self-discover could have been provided.",
+    "cbt_2": "4, The therapist demonstrated a good understanding of the client's feelings and effectively used guided discovery to help the client explore their thoughts and feelings, particularly regarding the pressure to perform perfectly. The therapist offered alternatives and encouraged the client to reflect on past experiences and positive moments. However, there were instances where the therapist's responses could have been more focused on facilitating the client's self-exploration and less on providing insights, which slightly impacted the overall effectiveness of the guided discovery process. Thus, a score of 4 is appropriate.",
+    "cbt_3": "4, The therapist primarily used supportive questioning and guided discovery methods to help the client explore their feelings and perspectives. However, there were moments where the therapist relied on generalized statements about failure and pressure without sufficiently encouraging the client to analyze their specific experiences in depth. While the therapist's approach was generally supportive and aimed to facilitate new perspectives, there was room for improvement in achieving a more consistent use of guided discovery techniques throughout the session. This led to a score of 4."
   }
 }
